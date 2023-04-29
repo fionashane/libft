@@ -3,7 +3,7 @@
 
 ![libft](https://img.shields.io/badge/libft-42-success)
 
-The **libft** project is part of the curriculum at [42 school](https://www.42.fr/) and aims to create a personal library of useful functions in C that will be used in subsequent projects. 
+The **libft** project is part of the curriculum at [42 school](https://www.42adel.org.au) and aims to create a personal library of useful functions in C that will be used in subsequent projects. 
 
 ## Project Objectives
 
@@ -99,7 +99,7 @@ The **libft** library contains the following functions:
 
 ## Credits
 
-The **libft** project was developed by [42 school](https://www.42.fr/). 
+The **libft** project was developed by [42 school](https://www.42adel.org.au). 
 
 ## License
 
