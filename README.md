@@ -81,22 +81,6 @@ The **libft** library contains the following functions:
 - ft_toupper
 - ft_tolower
 
-### Linked list functions
-- ft_lstnew
-- ft_lstadd_front
-- ft_lstsize
-- ft_lstlast
-- ft_lstadd_back
-- ft_lstdelone
-- ft_lstclear
-- ft_lstiter
-- ft_lstmap
-
-### Bonus functions
-- ft_strndup
-- ft_strjoin_free
-- ft_lstnew_back
-
 ## Credits
 
 The **libft** project was developed by [42 school](https://www.42adel.org.au). 
