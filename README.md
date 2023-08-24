@@ -85,8 +85,4 @@ The **libft** library contains the following functions:
 
 ## Credits
 
-The **libft** project was developed by [42 school](https://www.42adel.org.au). 
-
-## License
-
-This project is licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The **libft** project was developed by [42 school](https://www.42adel.org.au).
