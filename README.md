@@ -19,7 +19,7 @@ The project aims to introduce students to the basics of C programming and provid
 To use the functions in the **libft** library, you need to:
 1. Clone the repository to your local machine
 ```bash
-git clone https://github.com/your_username/libft.git
+git clone https://github.com/fionashane/libft.git
 ```
 
 2. Compile the library using the Makefile
