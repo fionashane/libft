@@ -82,7 +82,3 @@ The **libft** library contains the following functions:
 - `ft_isprint(int c)`: checks if a character is a printable character.
 - `ft_toupper(int c)`: converts a lower-case alphabetic character to upper-case.
 - `ft_tolower(int c)`: converts an upper-case alphabetic character to lower-case.
-
-## Credits
-
-The **libft** project was developed by [42 school](https://www.42adel.org.au).
